@@ -6,4 +6,4 @@
 06;Ramen;99;Mr Japan;Noodles;Japanese;
 07;Susi Sushi;649;Mr Japan;Sushi;Japanese;
 08;Lmao Biryani;120;Ayye King;Biryani;Desi;
-09;Anday wala burger;420;Auntie Gormint;LLegend;Fast Food;
+09;Anday wala burger;420;Auntie Gormint;Legend;Fast Food;
