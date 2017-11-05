@@ -7,3 +7,4 @@
 07;Susi Sushi;649;Mr Japan;Sushi;Japanese;
 08;Lmao Biryani;120;Ayye King;Biryani;Desi;
 09;Anday wala burger;420;Auntie Gormint;Legend;Fast Food;
+10;Fries;50;Sasta Fries Wala;Fries;Fast Food;
